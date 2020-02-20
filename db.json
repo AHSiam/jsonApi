@@ -1,0 +1,66 @@
+{
+    "curr": [
+        {
+            "id": "41",
+            "shift_id": "41",
+            "hour": "04:00",
+            "status": "-1",
+            "date": "2020-02-20",
+            "actual_date": "2020-02-19",
+            "shift_name": "Nacht",
+            "shift_code": "B03",
+            "starttime": "22:00",
+            "endtime": "06:00",
+            "total_hours": "8:0",
+            "calculate": "1",
+            "is_default": true
+        }
+    ],
+    "all": [
+        {
+            "id": "16",
+            "shift_id": "3",
+            "hour": "04:00",
+            "status": "-1",
+            "date": "2020-02-20",
+            "actual_date": "2020-02-19",
+            "shift_name": "Nacht Sonntag",
+            "shift_code": "NS3",
+            "starttime": "22:00",
+            "endtime": "06:00",
+            "total_hours": "8:0",
+            "calculate": "1",
+            "is_default": false
+        },
+        {
+            "id": "44",
+            "shift_id": "2",
+            "hour": "04:00",
+            "status": "-1",
+            "date": "2020-02-20",
+            "actual_date": "2020-02-19",
+            "shift_name": "Nacht Samstag",
+            "shift_code": "SM3",
+            "starttime": "22:00",
+            "endtime": "06:00",
+            "total_hours": "8:0",
+            "calculate": "0",
+            "is_default": false
+        },
+        {
+            "id": "56",
+            "shift_id": "4",
+            "hour": "04:00",
+            "status": "-1",
+            "date": "2020-02-20",
+            "actual_date": "2020-02-19",
+            "shift_name": "Samstag Nacht 12h",
+            "shift_code": "S6A-N",
+            "starttime": "18:00",
+            "endtime": "06:00",
+            "total_hours": "12:0",
+            "calculate": "0",
+            "is_default": false
+        }
+    ]
+}
